@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CAN Log Converter",
+  "description": "A professional tool to convert CAN bus text logs into Vector ASC format for analysis.",
+  "requestFramePermissions": []
+}
